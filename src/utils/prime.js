@@ -6,7 +6,7 @@ import React from "react";
 
 export const client = new ApolloClient({
   link: PrimeLink({
-    url: "http://localhost:4000"
+    url: "https://vchavkov-primecms.herokuapp.com"
   }),
   cache: new InMemoryCache()
 });

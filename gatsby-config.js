@@ -10,7 +10,7 @@ module.exports = {
       options: {
         typeName: `Prime`,
         fieldName: `prime`,
-        url: `https://example-prime.herokuapp.com/graphql`
+        url: `https://vchavkov-primecms.herokuapp.com/graphql`
       }
     },
     `gatsby-plugin-react-helmet`,
